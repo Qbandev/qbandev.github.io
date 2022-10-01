@@ -42,7 +42,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Combine engineering experience and an innate drive to improve existing systems and processes, with the creativity to develop novel solutions to evolving challenges.
       - layout: left
-        title: Kudelski iot
+        title: Kudelski IOT
         link: kudelski-iot.com
         # link_text: boringcompany.com
         sub_title: Site Reliability Engineer
