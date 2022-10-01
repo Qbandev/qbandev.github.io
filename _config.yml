@@ -15,7 +15,7 @@ website: ittasks.work
 darkmode: true
 
 # Social links
-#twitter_username: facespics
+twitter_username: qbandev
 github_username: qbandev
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -82,7 +82,7 @@ content:
         sub_title: Site Reliability Engineer
         caption: September 2022 - Present
         quote: >
-          Solving 21st century problems by making game changing products in the *web3*
+          Solving 21st century problems by making game changing products in the web3
         description: | # this will include new lines to allow paragraphs
           Combine engineering experience and an innate drive to improve existing systems and processes, with the creativity to develop novel solutions to evolving challenges.
       - layout: left
@@ -102,7 +102,7 @@ content:
         sub_title: Cloud Engineer
         caption: January 2011 - April 2018
         quote: >
-          Moving forward the *cloud* and *devops* culture
+          Moving forward the cloud and devops culture
         description: | # this will include new lines to allow paragraphs
           Create the bridge between development and operations by applying a software engineering mindset to system administration topics.
 
@@ -133,7 +133,7 @@ content:
   #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
