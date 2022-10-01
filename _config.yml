@@ -9,7 +9,7 @@ version: 2
 name: Jorge Carrasco
 title: Site Reliability Engineer
 email: jorge@ittasks.work
-website: ittasks.work
+# website: ittasks.work
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -48,7 +48,7 @@ content:
         sub_title: Site Reliability Engineer
         caption: May 2018 - August 2022
         quote: >
-          Deploying and building *IoT* Services & Solutions, Secure by Design
+          Deploying and building IoT Services & Solutions, Secure by Design
         description: | # this will include new lines to allow paragraphs
           SRE engineer deploying multi cloud IOT security platform taking the ownership for selecting infrastructure tools, managing production changes, and determining emergency responses.
       - layout: left
