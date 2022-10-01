@@ -95,10 +95,6 @@ content:
           Deploying and building *IoT* Services & Solutions, Secure by Design
         description: | # this will include new lines to allow paragraphs
           SRE engineer deploying multi cloud IOT security platform taking the ownership for selecting infrastructure tools, managing production changes, and determining emergency responses.
-          Responsible too for availability, latency, performance, efficiency,
-          monitoring and capacity planning.
-          Create the bridge between development and operations by applying a
-          software engineering mindset to system administration topics.
       - layout: left
         title: IE Business School
         link: ie.edu
