@@ -25,7 +25,7 @@ about_profile_image: images/jacv.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Jorge a SRE architect interested in innovation, implementation, and scale of new technology. I have been working with the cloud in different industries, agile is in my 🧬.
 
-  I am most skilled in: <mark>SRE</mark> - <mark>DevOps</mark> - <mark>Platform Engineer</mark>
+  I am most skilled in: <mark>SRE</mark> and <mark>DevOps</mark>
 
 content:
   - title: Experience # Title for the section
