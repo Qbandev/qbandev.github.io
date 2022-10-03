@@ -40,7 +40,7 @@ content:
         quote: >
           Solving 21st century problems by making game changing products in the web3
         description: | # this will include new lines to allow paragraphs
-          Combine engineering experience and an innate drive to improve existing systems and processes, with the creativity to develop novel solutions to evolving challenges.
+          I combine engineering experience and one innate drive to improve existing systems and processes, with the creativity to develop novel solutions to evolving challenges.
       - layout: left
         title: Kudelski IOT
         link: kudelski-iot.com
@@ -50,7 +50,7 @@ content:
         quote: >
           Deploying and building IoT Services & Solutions, Secure by Design
         description: | # this will include new lines to allow paragraphs
-          SRE engineer deploying multi cloud IOT security platform taking the ownership for selecting infrastructure tools, managing production changes, and determining emergency responses.
+          Build and scale a cloud IOT security platform taking the ownership for selecting infrastructure tools, managing production changes, and determining emergency responses.
       - layout: left
         title: IE Business School
         link: ie.edu
